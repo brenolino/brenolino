@@ -6,8 +6,8 @@
 ## 
 <div>
   <a href="https://github.com/brenolino">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=brenolino&show_icons=true&theme=tokyonight"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenolino&layout=compact&theme=tokyonight&hide_progress=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=brenolino&show_icons=true&theme=tokyonight"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenolino&layout=compact&theme=tokyonight&hide_progress=true"/>
 </div>
 <div style="display: inline-block"><br>
   <img align="center" alt="Python" height="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
