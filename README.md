@@ -7,8 +7,9 @@
 
 <div>
   <a href="https://github.com/brenolino">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=brenolino&show_icons=true&theme=tokyonight"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenolino&layout=compact&theme=tokyonight&hide_progress=true"/>
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=brenolino&show_icons=true&theme=tokyonight"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenolino&layout=compact&theme=tokyonight&hide_progress=true"/>
+  </a>
 </div>
 <div style="display: inline-block;">
   <img align="center" alt="Python" height="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="pointer-events: none;">
@@ -20,7 +21,7 @@
   <img align="center" alt="VSCode" height="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="pointer-events: none;">
   <img align="center" alt="Ubuntu" height="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="pointer-events: none;">
 </div>
-    
+
 ##
 
 <div>
