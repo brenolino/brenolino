@@ -11,6 +11,7 @@
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenolino&layout=compact&theme=tokyonight&hide_progress=true"/>
   </a>
 </div>
+<br>
 <div style="display: inline-block;">
   <img align="center" alt="Python" height="40" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="pointer-events: none;">
   <img align="center" alt="C++" height="40" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="pointer-events: none;">
